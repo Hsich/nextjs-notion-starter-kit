@@ -1,6 +1,6 @@
 module.exports = {
   // where it all starts -- the site's root Notion page (required)
-  rootNotionPageId: 'e47ba19f41354094904d9562c5f63318',
+  rootNotionPageId: 'c340fd6af44d4e98a3c049f35b0650ea',
 
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
@@ -8,7 +8,7 @@ module.exports = {
 
   // basic site info (required)
   name: 'Goldtips',
-  domain: 'https://statuesque-barracuda-ffb.notion.site/Home-e47ba19f41354094904d9562c5f63318',
+  domain: 'https://statuesque-barracuda-ffb.notion.site/c340fd6af44d4e98a3c049f35b0650ea',
   author: '厚金路',
 
   // open graph metadata (optional)
