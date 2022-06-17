@@ -8,7 +8,7 @@ module.exports = {
 
   // basic site info (required)
   name: 'Goldtips',
-  domain: 'https://statuesque-barracuda-ffb.notion.site/c340fd6af44d4e98a3c049f35b0650ea',
+  domain: 'https://www.notion.so/goldtips/c340fd6af44d4e98a3c049f35b0650ea',
   author: '厚金路',
 
   // open graph metadata (optional)
