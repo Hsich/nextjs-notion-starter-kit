@@ -1,6 +1,6 @@
 module.exports = {
   // where it all starts -- the site's root Notion page (required)
-  rootNotionPageId: 'c340fd6af44d4e98a3c049f35b0650ea',
+  rootNotionPageId: '2022-6-0ad0f9a087424d318dd45ec5044b94c6',
 
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
@@ -8,7 +8,7 @@ module.exports = {
 
   // basic site info (required)
   name: 'Goldtips',
-  domain: 'https://goldtips.notion.site/c340fd6af44d4e98a3c049f35b0650ea',
+  domain: 'https://goldtips.notion.site/2022-6-0ad0f9a087424d318dd45ec5044b94c6',
   author: '厚金路',
 
   // open graph metadata (optional)
